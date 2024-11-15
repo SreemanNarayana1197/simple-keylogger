@@ -1,0 +1,8 @@
+
+##### `.gitignore`
+
+```plaintext
+# .gitignore
+
+# Ignore log files
+keylog.txt
